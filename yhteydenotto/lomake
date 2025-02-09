@@ -1,0 +1,40 @@
+Ota yhteys
+
+
+Olemme täällä auttaaksemme! Täytä alla oleva lomake, niin otamme sinuun yhteyttä mahdollisimman pian.
+
+Kentät:
+    Nimi
+    Kenttätyyppi: Tekstikenttä
+    Kuvaus: Kirjoita etu- ja sukunimesi.
+
+    Sähköpostiosoite
+    Kenttätyyppi: Tekstikenttä (sähköposti)
+    Kuvaus: Syötä sähköpostiosoitteesi, jotta voimme ottaa yhteyttä.
+
+    Puhelinnumero
+    Kenttätyyppi: Tekstikenttä (numero)
+    Kuvaus: (Valinnainen) Anna puhelinnumerosi, jos haluat, että otamme yhteyttä puhelimitse.
+
+    Yritys / Organisaatio
+    Kenttätyyppi: Tekstikenttä
+    Kuvaus: (Valinnainen) Voit kertoa yrityksesi nimen, jos se on relevanttia.
+
+    Viesti / Kuvaus tarpeistasi
+    Kenttätyyppi: Monirivinen tekstikenttä
+    Kuvaus: Kerro meille tarkemmin, kuinka voimme auttaa sinua. Voit myös kuvata projektisi tai kysymyksesi.
+
+    Palvelualueet
+    Kenttätyyppi: Valintaruutu (Monivalinta)
+    Vaihtoehdot:
+        Verkkosivujen suunnittelu
+        Web-sovellusten kehitys
+        IT-konsultointi
+        Kuvaus: Valitse palvelualueet, joista olet kiinnostunut.
+
+    Aikataulu / Projektin aikaraja
+    Kenttätyyppi: Tekstikenttä (valinnainen)
+    Kuvaus: Onko sinulla tietty aikaraja projektille?
+
+    Lähetä-painike
+    Toiminto: Lomakkeen lähettäminen yritykselle.
